@@ -1,6 +1,6 @@
 {
-  "name": "rollup-plugin-postcss",
-  "version": "3.0.0",
+  "name": "@tilda/rollup-plugin-postcss",
+  "version": "1.0.0",
   "description": "Seamless integration between Rollup and PostCSS",
   "main": "dist/index.js",
   "files": [
@@ -102,5 +102,6 @@
       "master",
       "next"
     ]
-  }
+  },
+  "packageManager": "yarn@4.7.0"
 }
